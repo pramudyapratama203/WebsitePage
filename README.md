@@ -17,6 +17,3 @@ TinDog is a beautifully designed web app that helps dog owners find companionshi
 - **Bootstrap**: Responsive grids and UI components.
 
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
