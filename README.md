@@ -12,8 +12,8 @@ TinDog is a beautifully designed web app that helps dog owners find companionshi
 
 ## Technologies Used
 
-- **HTML5**: To structure content.
-- **CSS3**: Attractive styling with animations.
+- **HTML**: To structure website.
+- **CSS**: Attractive styling with animations.
 - **Bootstrap**: Responsive grids and UI components.
 
 
