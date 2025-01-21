@@ -16,31 +16,6 @@ TinDog is a beautifully designed web app that helps dog owners find companionshi
 - **CSS3**: Attractive styling with animations.
 - **Bootstrap**: Responsive grids and UI components.
 
-## How to Run
-
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/tindog.git
-cd tindog
-```
-
-2. Open the `index.html` file in your browser to view the application locally.
-
-## Contributions
-
-We welcome contributions to TinDog! To contribute:
-
-1. Fork this repository.
-2. Create a new branch for your feature:
-```bash
-git checkout -b feature-name
-```
-3. Commit your changes and push to your fork:
-```bash
-git commit -m "Add feature-name"
-git push origin feature-name
-```
-4. Create a pull request in the main repository.
 
 ## License
 
