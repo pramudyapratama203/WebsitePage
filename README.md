@@ -1,3 +1,4 @@
+![Screenshot 2025-01-21 164635](https://github.com/user-attachments/assets/9f06668b-83aa-4778-a9ef-dd1a96a84cc7)
 
 # TinDog
 
